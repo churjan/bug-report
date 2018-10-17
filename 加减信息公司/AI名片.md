@@ -24,7 +24,7 @@
     
     如果写成大小写的，例如 `customerId` 会被是被成 `customerid`
 
-1. 获取用系统时间不能用 `new Date()`, 要用`getDate()`\
+1. 获取用系统时间不能用 `new Date()`, 要用`getDate()`
 
 1. swiper 组件要设置高度
 
