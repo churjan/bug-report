@@ -26,7 +26,7 @@
 
 1. 获取用系统时间不能用 `new Date()`, 要用`getDate()`
 
-1. swiper 组件要设置高度
+1. swiper 组件要设置高度,而且默认高度不能为 0
 
 ```html
 <swiper height="{{swiperHeight}}">
